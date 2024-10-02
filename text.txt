@@ -1,0 +1,49 @@
+What is html ? 
+HTML stands for Hyper Text Markup Language. It is used to design web pages using a markup language. 
+
+html --> programing lang 
+
+
+frontend | client side
+frontend --> html, css, js
+
+backend | server side
+backend --> python, java, php, ruby, .net, c, C++
+
+
+frontend + backend = full stack developer
+
+
+use : to develop web pages
+
+wesite --> collection of web pages
+
+wesite:
+
+HTML support only static data:
+
+HTML --> Hyper Text Markup Language
+
+VS Code : Visual Studio Code
+
+.C -> C program
+.html -> HTML program
+
+tagsc :
+<tag> : open tag
+</tag> : close tag
+
+<!DOCTYPE html> : document type
+
+<html lang="en"> : language of the document -> english
+
+<head> : header of the document
+    <meta charset="UTF-8"> : character set
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> : compatibility
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> : responsive
+    <title>Document</title> : title of the document
+</head>
+<body> 
+    : body of the document
+</body>
+</html>
