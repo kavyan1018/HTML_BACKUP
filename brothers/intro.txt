@@ -1,0 +1,61 @@
+    visual studio code  -> html:5 
+
+
+// 1. What is HTML?
+// HTML stands for Hyper Text Markup Language. It is a language of World Wide Web. It is a standard text formatting language which is used to create and display pages on the Web. It makes the text more interactive and dynamic. It can turn text into images, tables, links.
+
+
+1. clinet side --> clinet side means the browser side
+2. server side --> it means programming language like php, python, java, .net etc
+3. html is a markup language
+4. html is not a programming language
+5. html is a standard text formatting language
+6. html is used to create and display pages on the web
+7. html makes the text more interactive and dynamic
+
+
+what is the meaning of dynamic?
+dynamic means changeable
+
+
+what is the meaning of interactive?
+interactive means user can interact with the page
+
+
+visual studio code -> live server -> go live
+
+c-> .c
+c++ -> .cpp
+java -> .java
+
+html -> .html
+
+<!DOCTYPE html>
+--> Document Type html
+
+<html lang="en">
+--> in html tag we can use english language
+
+<head>
+    <meta charset="UTF-8">
+    charset ?
+    --> charset is a character encoding
+
+    what is UTF ?
+    --> UTF stands for Unicode Transformation Format
+
+    what is the UTF-8 ?
+    --> UTF-8 is a variable width character encoding capable of encoding all 1,112,064 valid code points in Unicode using one to four 8-bit bytes.
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Document</title>
+    --> title tag is used to give the title of the page
+</head>
+
+<body>
+    
+    --> body tag is used to display the content on the browser
+
+</body>
+</html>
